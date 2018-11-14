@@ -1,0 +1,9 @@
+%YAML:1.0
+
+#file path
+left_image_path: "/home/alex/datasets/kitti/00/image_0/"
+right_image_path: "/home/alex/datasets/kitti/00/image_1/"
+time_file_path: "/home/alex/datasets/kitti/00/times.txt"
+
+#camera calibration 
+bag_name: "/result/kitti.bag"
